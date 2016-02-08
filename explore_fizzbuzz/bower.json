@@ -1,0 +1,12 @@
+{
+  "name": "explore_fizzbuzz",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.11.0",
+    "lodash": "~3.4.0",
+    "fizzbuzz_00": "./app/scripts/fizzbuzz/fizzbuzz_00.js",
+    "fizzbuzz_01": "./app/scripts/fizzbuzz/fizzbuzz_01.js"
+  },
+  "devDependencies": {}
+}
